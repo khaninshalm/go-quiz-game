@@ -1,1 +1,1 @@
-# go-quiz-game
+# Quiz Game in Go (Golang)
